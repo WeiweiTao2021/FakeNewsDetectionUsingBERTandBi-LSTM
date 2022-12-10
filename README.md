@@ -69,8 +69,6 @@ Build model for fake news detection and develop algorithm to perform model infer
 
 Overleaf link for project final report: https://www.overleaf.com/8635424853ttjqtngwmktj
 
-Overleaf link for project proposal: https://www.overleaf.com/9154917322dnvsqwfkjbcj 
-
 
 ## References
 1. https://onlinelibrary.wiley.com/doi/epdf/10.1002/spy2.9
